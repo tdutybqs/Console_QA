@@ -1,0 +1,6 @@
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\bin\Debug\ConsoleСМО.exe
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\bin\Debug\ConsoleСМО.pdb
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\obj\Debug\ConsoleСМО.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\obj\Debug\ConsoleСМО.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\obj\Debug\ConsoleСМО.exe
+C:\Users\Евгений\source\repos\ConsoleСМО\ConsoleСМО\obj\Debug\ConsoleСМО.pdb
