@@ -80,32 +80,7 @@ namespace ConsoleСМО
                 }
                 else
                 {
-                    Console.WriteLine("T1:");
-                    for (int j = 0; j < T1.Count; j++)
-                    {
-                        Console.WriteLine(Math.Round(T1[j], 2));
-                    }
-                    Console.WriteLine();
-
-                    Console.WriteLine("T2:");
-                    for (int j = 0; j < T2.Count; j++)
-                    {
-                        Console.WriteLine(Math.Round(T2[j], 2));
-                    }
-                    Console.WriteLine();
-
-                    Console.WriteLine("T3:");
-                    for (int j = 0; j < T3.Count; j++)
-                    {
-                        Console.WriteLine(Math.Round(T3[j],2));
-                    }
-                    Console.WriteLine();
-
-                    Console.WriteLine("T4:");
-                    for (int j = 0; j < T4.Count; j++)
-                    {
-                        Console.WriteLine(Math.Round(T4[j], 2));
-                    }
+                    
 
                     Console.WriteLine("Пришло " + (i) + " заявок");
                     Console.WriteLine("Потерялось " + T4.Count + " заявок");
